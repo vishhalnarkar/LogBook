@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246520953983",
+    "project_id": "logbook-66c98",
+    "storage_bucket": "logbook-66c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246520953983:android:559698b58e491f06ad934a",
+        "android_client_info": {
+          "package_name": "com.example.logbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkXajGO_vw2uv8yz3r3XuouArR3J6kgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
